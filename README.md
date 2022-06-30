@@ -1,6 +1,6 @@
 ## Wanna be a Solidity superstar?
 
-This is list of helpful articles regarding the Solidity lang.
+This is a list of helpful articles regarding the Solidity lang.
 
 - https://ethernaut.openzeppelin.com/
 
@@ -8,5 +8,5 @@ This is list of helpful articles regarding the Solidity lang.
 
 - https://book.getfoundry.sh/index.html
 
-- https://book.getfoundry.sh/index.html
+- https://cmichel.io/pricing-lp-tokens/
 
