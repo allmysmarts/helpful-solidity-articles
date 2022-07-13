@@ -13,3 +13,5 @@ This is a list of helpful articles regarding the Solidity lang.
 - https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works
 
 - https://github.com/Uniswap/v2-core/blob/master/contracts/UniswapV2Pair.sol
+
+- https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html
